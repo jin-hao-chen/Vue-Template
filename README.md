@@ -1,2 +1,1 @@
-# vue_project_template
-Vue Project Template
+# Vue 项目目录模板
